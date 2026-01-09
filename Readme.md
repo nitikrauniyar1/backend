@@ -20,8 +20,8 @@ This project provides RESTful APIs and can be used as a base for full-stack (MER
 
 - **Node.js**
 - **Express.js**
-- **MongoDB** (optional / if used)
-- **Mongoose** (optional)
+- **MongoDB**
+- **Mongoose** 
 - **Postman** (for API testing)
 
 ---
